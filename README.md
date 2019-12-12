@@ -1,4 +1,4 @@
-# Ths is dummy springboot helloworld container
+# This is a dummy springboot helloworld container
 
 
 ## 1. Starting springboot container
@@ -15,6 +15,6 @@ docker run -it -p 8080:8080 emedeiros/springboot-helloworld-docker
 docker-compose up -d
 ```
 
-## 2. Deploy default
+## 2. How to access the deployment
 
 * URL: http://your.ip:8080
