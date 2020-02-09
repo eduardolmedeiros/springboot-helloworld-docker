@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  tomcat:
-    image: emedeiros/springboot-hellworld-docker
+  springboot:
+    image: emedeiros/springboot-helloworld-docker
     ports:
       - 8080:8080
