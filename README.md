@@ -1,4 +1,8 @@
-# This is a dummy springboot helloworld container
+# This is a dummy springboot helloworld container 
+
+## Features:
+
+* Actuator exposing jvm metrics for prometheus
 
 
 ## 1. Starting springboot container
