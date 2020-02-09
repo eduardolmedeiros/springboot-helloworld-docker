@@ -21,4 +21,6 @@ docker-compose up -d
 
 ## 2. How to access the deployment
 
-* URL: http://your.ip:8080
+* URL: http://localhost:8080
+* URL Actuator: http://localhost:8080/actuator/
+* URL Prometheus metrics: http://localhost:8080/actuator/prometheus
